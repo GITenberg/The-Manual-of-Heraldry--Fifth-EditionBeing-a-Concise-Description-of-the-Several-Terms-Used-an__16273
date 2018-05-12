@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16273#The-Manual-of-Heraldry--Fifth-EditionBeing-a-Concise-Description-of-the-Several-Terms-Used-an_
 gutenberg_bookshelf: Art
 gutenberg_issued: '2005-07-12'
 gutenberg_type: Text
